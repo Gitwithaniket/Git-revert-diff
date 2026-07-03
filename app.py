@@ -1,5 +1,5 @@
-name = input("This is Third Change: Please enter your name: ")
-age = int(input("This is Third Change: Please enter your age: "))
+name = input("This is Test-2 ")
+age = int(input("This is Test-2"))
 
 print(f"Hello, {name}!")
 print(f"You are {age} years old.")
